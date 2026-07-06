@@ -1,4 +1,4 @@
-# Rafael Rodrigues👩🏻‍💻
+# Rafael Rodrigues👨🏻‍💻
 
 **`Computer Science Student`**
 
@@ -65,6 +65,14 @@ src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=l
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Swift" 
+    title="Swift"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"
 />
 
 <br/>
