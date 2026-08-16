@@ -2,7 +2,7 @@
 
 **`Computer Science Student`**
 
-Me chamo Rafael Campos Rodrigues, tenho 18 anos e sou de São Paulo (SP). Concluí o ensino médio na Universidade Presbiteriana Mackenzie. Atualmente, estou cursando graduação em Ciências da Computação💻 na mesma universidade onde me formei. Sou entusiasta de tecnologia e estou sempre em busca de mais conhecimento nessa área, procurando me aprimorar cada vez mais.🤠
+Me chamo Rafael Campos Rodrigues, tenho 18 anos. Atualmente, estou cursando graduação em Ciências da Computação. Sou entusiasta de tecnologia e estou sempre em busca de mais conhecimento nessa área, procurando me aprimorar cada vez mais.
 
   ##
  
